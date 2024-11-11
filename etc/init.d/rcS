@@ -1,0 +1,5 @@
+mount -a
+#dash
+#mdev -s
+#/testcases/mmap19
+/btp/sbin/hello
